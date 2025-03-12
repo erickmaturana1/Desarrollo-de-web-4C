@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+nav{
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+
+}
+
+li{
+    margin:0 15px;
+}
+
+a{
+text-decoration: none;
+cursor: pointer;
+font-weight: bold;
+}
+a:hover{
+    color: green;
+}
+.operaciones{
+    padding: 50px;
+}
+.button{
+    background-color: chocolate;
+    
+}

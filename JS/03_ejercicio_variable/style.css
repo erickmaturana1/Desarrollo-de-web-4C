@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+nav{
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+
+}
+
+li{
+    margin:0 15px;
+}
+
+a{
+text-decoration: none;
+cursor: pointer;
+font-weight: bold;
+}
+a:hover{
+    color: green;
+}
+.operaciones{
+    padding: 50px;
+}
+.button{
+    background-color: chocolate;
+    
+}
+.numerico{
+    background-color: aqua;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 12px;
+}
+.string{
+    background-color: chartreuse;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 12px;
+}
+.bool{
+    background-color: darkgoldenrod;
+    padding: 15px;
+    margin: 20px;
+    border-radius:12px ;
+}
+.rut{
+    background-color: blue;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 12px;
+}
+.lista{
+    background-color: burlywood;
+    padding: 15px;
+    margin: 20px;
+    border-radius:12px ;
+}
+.matriz{
+    background-color: tomato;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 12px;
+}
+.objeto{
+    background-color: blueviolet;
+    padding:15px ;
+    margin: 20px;
+    border-radius:12px ;
+}
+
+
+
